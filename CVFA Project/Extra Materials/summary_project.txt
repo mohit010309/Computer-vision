@@ -1,0 +1,5 @@
+SIFT fails to provide correct results due to highly similar features.
+
+dark background is used in all the images taken as a dataset.
+
+SIFT implemented by vl_sift in MATLAB.
